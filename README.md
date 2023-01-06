@@ -1,4 +1,4 @@
-# Sound-Visualizatiom
+# Sound-Visualization
 
 song
 Audio file of type mp3, wav, or ogg.
