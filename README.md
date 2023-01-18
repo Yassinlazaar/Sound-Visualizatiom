@@ -14,6 +14,5 @@ resolution:
 128, 256, or 512
 Default: 512
 
-The following is a quick demo for the project:
 
 
